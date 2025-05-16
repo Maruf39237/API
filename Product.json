@@ -6,7 +6,7 @@
     "description": "A sleek and comfy modern sofa for your living room.",
     "price": 40000,
     "rating": 4.5,
-    "image": "furniture-pic/sofa.jpg"
+    "image": "furniture pic/sofa.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "description": "Elegant dining table set with 6 chairs.",
     "price": 35000,
     "rating": 4.7,
-    "image": "furniture-pic/dining-table.jpg"
+    "image": "furniture pic/dining-table.jpg"
   },
   {
     "id": 3,
