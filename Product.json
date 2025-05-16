@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Sofa",
+    "brand": "FurniStyle",
+    "description": "A sleek and comfy modern sofa for your living room.",
+    "price": 40000,
+    "rating": 4.5,
+    "image": "furniture-pic/sofa.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dining Table Set",
+    "brand": "WoodCraft",
+    "description": "Elegant dining table set with 6 chairs.",
+    "price": 35000,
+    "rating": 4.7,
+    "image": "furniture-pic/dining-table.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Almirah",
+    "brand": "ClosetPro",
+    "description": "Spacious wooden almirah with lock system.",
+    "price": 25000,
+    "rating": 4.3,
+    "image": "furniture-pic/almirah.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Queen Bed",
+    "brand": "DreamHome",
+    "description": "Queen size bed with storage drawers.",
+    "price": 42000,
+    "rating": 4.6,
+    "image": "furniture-pic/bed.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Study Table",
+    "brand": "EduDesk",
+    "description": "Compact study table for students.",
+    "price": 12000,
+    "rating": 4.2,
+    "image": "furniture-pic/study-table.png"
+  },
+  {
+    "id": 6,
+    "name": "Office Chair",
+    "brand": "ErgoSeat",
+    "description": "Ergonomic office chair with lumbar support.",
+    "price": 18000,
+    "rating": 4.8,
+    "image": "furniture-pic/office-chair.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Bookshelf",
+    "brand": "BookNest",
+    "description": "5-tier bookshelf for organized storage.",
+    "price": 10000,
+    "rating": 4.1,
+    "image": "furniture-pic/bookshelf.webp"
+  },
+  {
+    "id": 8,
+    "name": "Coffee Table",
+    "brand": "LivingEdge",
+    "description": "Stylish center coffee table with glass top.",
+    "price": 15000,
+    "rating": 4.4,
+    "image": "furniture-pic/coffee-table.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rocking Chair",
+    "brand": "Relaxo",
+    "description": "Traditional wooden rocking chair.",
+    "price": 17000,
+    "rating": 4.6,
+    "image": "furniture-pic/rocking-chair.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Computer Desk",
+    "brand": "TechTable",
+    "description": "Compact computer desk with keyboard tray.",
+    "price": 22000,
+    "rating": 4.3,
+    "image": "furniture-pic/computer-table.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Kitchen Cabinet",
+    "brand": "ModuKitchen",
+    "description": "Wall-mounted kitchen cabinet with drawers.",
+    "price": 30000,
+    "rating": 4.4,
+    "image": "furniture-pic/kitchen-cabinet.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Bedside Table",
+    "brand": "SideNest",
+    "description": "Wooden bedside table with drawer.",
+    "price": 8000,
+    "rating": 4.0,
+    "image": "furniture-pic/bedside-table.jpg"
+  },
+  {
+    "id": 13,
+    "name": "TV Stand",
+    "brand": "VisionWood",
+    "description": "Wide TV stand with multiple storage options.",
+    "price": 18000,
+    "rating": 4.2,
+    "image": "furniture-pic/tv-stand.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Shoe Rack",
+    "brand": "StepOrganize",
+    "description": "Multi-layer shoe rack for entryway.",
+    "price": 9000,
+    "rating": 4.1,
+    "image": "furniture-pic/shoe-rack.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Wall Shelf Set",
+    "brand": "DecorPlus",
+    "description": "Floating wall shelves for display.",
+    "price": 6000,
+    "rating": 4.5,
+    "image": "furniture-pic/wall-shelf.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Dressing Table",
+    "brand": "StyleMirror",
+    "description": "Elegant dressing table with mirror.",
+    "price": 24000,
+    "rating": 4.6,
+    "image": "furniture-pic/dressing-table.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Swing Stand",
+    "brand": "HangEase",
+    "description": "Outdoor swing stand for patios.",
+    "price": 20000,
+    "rating": 4.3,
+    "image": "furniture-pic/swing-stand.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Recliner Chair",
+    "brand": "ComfortKing",
+    "description": "Adjustable recliner chair with footrest.",
+    "price": 30000,
+    "rating": 4.7,
+    "image": "furniture-pic/recliner.jpg"
+  }
+]
